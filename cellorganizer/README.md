@@ -1,8 +1,5 @@
-# CellOrganizer
+# Workshop 2019 - CellOrganizer
 ## Repository for CellOrganizer models, descriptions, and code to be used for the 2019 Workshop.
-
-# Workshop 2019
-## Repository for models, descriptions, and code to be used for the 2019 Workshop.
 
 ![Model in Blender](../shared/model_001.gif?raw=true "Model in Blender")
 
