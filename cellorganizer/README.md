@@ -4,7 +4,7 @@
 # Workshop 2019
 ## Repository for models, descriptions, and code to be used for the 2019 Workshop.
 
-![Model in Blender](shared/model_001.gif?raw=true "Model in Blender")
+![Model in Blender](../shared/model_001.gif?raw=true "Model in Blender")
 
 ## Requirements
   You need to have a relatively recent version of Matlab and the development
