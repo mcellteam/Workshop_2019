@@ -1,5 +1,5 @@
 # CellOrganizer
-## Repository for CellOrganizer models, descriptions, and code to be used for the 2018 Workshop.
+## Repository for CellOrganizer models, descriptions, and code to be used for the 2019 Workshop.
 
 ## Requirements
   You need to have a relatively recent version of Matlab and the development
