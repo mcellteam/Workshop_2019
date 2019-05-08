@@ -14,6 +14,7 @@ Day 1
 
 Day 2
 * Slides for introduction to rule-based modeling.
+* [Jupyter notebook for analyzing BioNetGen output]()
 
 Reference
 * [BioNetGen website](http://bionetgen.org)
