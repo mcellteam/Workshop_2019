@@ -14,6 +14,6 @@ If you are using your own laptop, install RuleBender 2.3.0, which is available a
 * [BioNetGen primer](https://www.dropbox.com/s/rm0535pgom2zr6i/Sekar-RuleBasedPrimer-2012.pdf?dl=0) for extended description and reference on BioNetGen modeling, including compartments.
 * Slides for introdcution to rule-based modeling.
 
-## Repository for BioNetGen models, descriptions, and code to be used for the 2019 Workshop.
+## Extended tutorial and example models
 
-Additional materials for the BioNetGen portion of the workshop are available [here](https://github.com/RuleWorld/BNGTutorial/blob/master/README.md).
+* An extended GitHub-based tutorial on rule-based modeling with BioNetGen is [here](https://github.com/RuleWorld/BNGTutorial/blob/master/README.md).
