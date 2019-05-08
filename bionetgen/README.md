@@ -8,11 +8,17 @@ If you are using your own laptop, install RuleBender 2.3.0, which is available a
 
 ## Workshop materials
 
+Day 1
 * [Basic workflow for rule-based modeling](https://www.dropbox.com/s/gyjyv7dm0ndpd7p/RBM-workflow.pptx?dl=0)
+* [Organelle transport model](organelle_transport.bngl)
+
+Day 2
+* Slides for introduction to rule-based modeling.
+
+Reference
 * [BioNetGen website](http://bionetgen.org)
 * [Quick reference guide](https://drive.google.com/file/d/0B2lPm2_GUE01X3ZaamZxUl80NTA/edit) for handy reference on BioNetGen syntax.
 * [BioNetGen primer](https://www.dropbox.com/s/rm0535pgom2zr6i/Sekar-RuleBasedPrimer-2012.pdf?dl=0) for extended description and reference on BioNetGen modeling, including compartments.
-* Slides for introdcution to rule-based modeling.
 
 ## Extended tutorial and example models
 
