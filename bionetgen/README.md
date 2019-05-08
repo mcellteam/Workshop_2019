@@ -5,4 +5,4 @@ Materials for the BioNetGen portion of the workshop are available [here](https:/
 
 ## Requirements
 
-Install RuleBender 2.2.1, which is available at http://bionetgen.org.
+Install RuleBender 2.3.0, which is available at http://bionetgen.org.
