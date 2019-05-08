@@ -1,7 +1,7 @@
 # Workshop 2019
 ## Repository for models, descriptions, and code to be used for the 2019 Workshop.
 
-An updated agenda is [here](https://docs.google.com/document/d/1LWj4nWpN9DQXcbmkdRHLM3NcIQpZi1vK-eVuUm3SqTA/edit?usp=sharing).
+An updated agenda at [https://tinyurl.com/y6l9gzwb](https://docs.google.com/document/d/1LWj4nWpN9DQXcbmkdRHLM3NcIQpZi1vK-eVuUm3SqTA/edit?usp=sharing).
 
 * **[CellBlender](cellblender)**
 * **[CellOrganizer](cellorganizer)**
