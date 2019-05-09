@@ -3,7 +3,7 @@
 
 This directory contains files and documentation for the CellBlender portion of the 2019 Workshop.
 
-* [Download latest MCell/CellBlender here](http://www.cnl.salk.edu/~bartol/cellblender_bundle)
+* [Download latest MCell/CellBlender for Linux or MacOSX here](http://www.cnl.salk.edu/~bartol/cellblender_bundle)
 
 * Basic blender mouse operations
 ![Basic blender mouse operations](basic_blender_ops.jpeg?)
