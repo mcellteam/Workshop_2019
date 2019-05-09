@@ -13,7 +13,7 @@ Day 1
 * [Organelle transport model](organelle_transport.bngl)
 
 Day 2
-* [Slides for introduction to rule-based modeling](https://www.dropbox.com/s/1098dk2l43wqn57/MMBios2019Workshop-RBM-overview.pptx?dl=0).
+* [Slides for introduction to rule-based modeling](https://www.dropbox.com/s/dzth69pivzirzr9/MMBios2019Workshop-RBM-overview.pdf?dl=0).
 * [Jupyter notebook for analyzing BioNetGen output](Workshop2019_Notebook.ipynb)
 
 Reference
