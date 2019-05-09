@@ -3,6 +3,8 @@
 
 This directory contains files and documentation for the CellBlender portion of the 2019 Workshop.
 
+* [Download latest MCell/CellBlender here](http://www.cnl.salk.edu/~bartol/cellblender_bundle)
+
 * Basic blender mouse operations
 ![Basic blender mouse operations](basic_blender_ops.jpeg?)
 * [General Blender cheat sheet](http://www.blender.hu/tutor/kdoc/Blender_Cheat_Sheet.pdf)
