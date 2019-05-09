@@ -84,5 +84,5 @@ end reaction rules
 
 generate_network()
 writeSBML()  
-simulate({method=>"ode",t_start=>0,t_end=>.01,n_steps=>1000})
+simulate({method=>"ssa",t_start=>0,t_end=>.01,n_steps=>1000})
 
